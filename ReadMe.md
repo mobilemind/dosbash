@@ -5,6 +5,7 @@ Simple DOS batch files that provide basic 'work-alike' compatibility for common 
 These are **NOT** a shell, just a simple way to deal with me absent-mindedly typing "ls" when I mean "dir"-- sort of a do-what I meant.
 
 Commands cover just a few basic and don't provide a lot of switches. Commands supported include:
+
 * **cat**- works like DOS "type" command using cat.bat to send text file to console
 * **cp**-  works like DOS "xcopy" command by calling cp.bat [Note: xcopy supports recursive copying, unlike DOS copy command.]
 * **edit**- my own crutch here: this opens the specified file with the Notepad++ application
