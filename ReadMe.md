@@ -1,6 +1,6 @@
 dosbash
 ==========
-NOTE: Deprecated for GNU W32 Utils.
+NOTE: Deprecated for GNU W32 Utils. See http://gnuwin32.sourceforge.net/packages/coreutils.htm
 
 Simple DOS batch files that provide basic 'work-alike' compatibility for common bash shell commands.
 
