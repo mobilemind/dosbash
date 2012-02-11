@@ -1,5 +1,7 @@
 dosbash
 ==========
+NOTE: Deprecated for GNU W32 Utils.
+
 Simple DOS batch files that provide basic 'work-alike' compatibility for common bash shell commands.
 
 These are **NOT** a shell, just a simple way to deal with me absent-mindedly typing "ls" when I mean "dir"-- sort of a do-what I meant.
